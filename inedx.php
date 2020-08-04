@@ -1,3 +1,4 @@
 <?php
-  echo 'git init'
+  echo 'git init';
+  echo 'check';
 ?>
